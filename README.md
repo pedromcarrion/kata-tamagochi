@@ -1,4 +1,4 @@
-Kata Tamagochi.
+# Kata Tamagochi.
 
 Objetivo: 
 
@@ -7,10 +7,10 @@ Practicar TDD con NodeJS y ES6
 
 Para ejecutar:
 
-npm install -g mocha
-npm install
-npm test
+    1. npm install -g mocha
+    2. npm install
+    3. npm test
 
 TODO:
 
-Acabar el ejercicio de control del tiempo.
+    1. Acabar el ejercicio de control del tiempo.
